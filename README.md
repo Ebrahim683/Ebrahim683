@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ebrahim683" alt="ebrahim683" /></a> </p>
 
-- 🔭 I’m currently working on **Infinity Algo Station**
+- 🔭 I’m currently working on **Infinity Algo Station as App Developer**
 
 - 🌱 I’m currently learning **Everything**
 

@@ -27,8 +27,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebrahim683)](https://github.com/ebrahim683/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ebrahim683&show_icons=true&locale=en" alt="ebrahim683" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ebrahim683&" alt="ebrahim683" /></p>
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ebrahim683)](https://github.com/ebrahim683/github-readme-stats)

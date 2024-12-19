@@ -21,5 +21,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ebrahim683&limit=5&theme=default&combine_all_yearly_contributions=true)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ebrahim683&" alt="ebrahim683" /></p>
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ebrahim683)](https://github.com/ebrahim683/github-readme-stats)
 ---
 [![](https://visitcount.itsvg.in/api?id=ebrahim683&icon=10&color=13)](https://visitcount.itsvg.in)

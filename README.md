@@ -67,7 +67,7 @@
   </a> 
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebrahim683&token=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)](https://github.com/ebrahim683/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebrahim683&token=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&v=1)](https://github.com/ebrahim683/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ebrahim683&" alt="ebrahim683" /></p>
 

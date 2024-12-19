@@ -1,4 +1,6 @@
 # 💫 About Me:
+<h1 align="center">Hi 👋, I'm Md Ebrahim Rahman</h1>
+<h3 align="center">A passionate app developer</h3>
 - 🔭 I’m currently working on **Infinity Algo Station as Co-Founder, Project Manager, and App Developer**<br><br>- 🌱 I’m currently learning **Everything**<br><br>- 💬 Ask me about **App development**<br><br>- 📫 How to reach me **ebrahimrahman20@gmail.com**
 
 

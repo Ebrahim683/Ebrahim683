@@ -1,4 +1,5 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![](https://visitcount.itsvg.in/api?id=ebrahim683&icon=10&color=13)](https://visitcount.itsvg.in)
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Md Ebrahim Rahman</h1>
 <h3 align="center">A passionate app developer</h3>
@@ -25,5 +26,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ebrahim683&" alt="ebrahim683" /></p>
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ebrahim683)](https://github.com/ebrahim683/github-readme-stats)
----
-[![](https://visitcount.itsvg.in/api?id=ebrahim683&icon=10&color=13)](https://visitcount.itsvg.in)

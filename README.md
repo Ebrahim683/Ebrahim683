@@ -4,7 +4,7 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Md Ebrahim Rahman</h1>
 <h3 align="center">A passionate app developer</h3>
-- 🔭 I’m currently working on **Infinity Algo Station as Co-Founder, Project Manager, and App Developer**<br><br>- 🌱 I’m currently learning **Everything**<br><br>- 💬 Ask me about **App development**<br><br>- 📫 How to reach me **ebrahimrahman20@gmail.com**
+🌱 I’m currently learning **Everything**<br><br>- 💬 Ask me about **App development**<br><br>- 📫 How to reach me **ebrahimrahman20@gmail.com**
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/589625975428612096) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100087952092677) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mdebrahim7578) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ebrahim683) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14466829) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MDEbrahimRahma4) 
